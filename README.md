@@ -24,6 +24,15 @@ Ruby 中最知名的 web framework。
 - Ruby on Rails 實戰聖經：國內有名的 Rails 參考書。[[連結](https://ihower.tw/rails4/)]
 - Rails 101：目前改為免費線上課程。[[連結](http://courses.growthschool.com/courses/rails-101)]
 - Rails 102：一些較進階的 Rails 相關知識。[[連結](https://www.gitbook.com/book/rocodev/rails-102/details)]
+- The Rails Way：將 Rails 詳細講一次的大部頭書籍，適合學過一陣子 Rails 後再看。[[連結](http://amzn.to/1Q1PtL4)]
+
+## Sinatra
+
+一個 web micro-framework，可用來快速建立網頁應用程式。
+
+- Sinatra 官網。[[連結](http://www.sinatrarb.com/)]
+- Sinatra Up and Running：第一本 Sinatra 的實體書籍。[[連結](http://shop.oreilly.com/product/0636920019664.do)]
+- Jump Start Sinatra：電子和實體書籍。[[連結](http://www.sitepoint.com/store/jump-start-sinatra/)]
 
 ## Git
 
