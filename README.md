@@ -94,8 +94,23 @@ VPS 的好處是收費相對較低，但需自行管理站台
 - [Awesome Ruby](http://awesome-ruby.com/)：
   列出許多 Ruby 函式庫和框架，可供開發者參考
 
+## 電子報
+
+- [Ruby Weekly](http://rubyweekly.com/)
+- [Green Ruby](http://greenruby.org/)
+
+## 個人網站
+
+一些 Ruby/Rails 前輩的網站，按網路代名的字母排序。
+
+- [eddie](http://blog.eddie.com.tw/)
+- [ihower](https://ihower.tw/)
+- [ryudo](http://ryudo.tw/)
+- [xdite](http://xdite.net/)
+
 ## 社群
 
+- [Ruby Taiwan](https://www.facebook.com/groups/142197385837507/)：Facebook 社團
 - [Rails Taiwan](http://www.meetup.com/rails-taiwan/)：台北和高雄的 Meetup
 - [Ruby on Rails 讀書會](https://www.facebook.com/groups/208890269174940/)：Facebook 社團
 - [Ruby on Rails 新手村](https://www.facebook.com/groups/670532946312104/)：Facebook 社團
