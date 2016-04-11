@@ -93,3 +93,17 @@ VPS 的好處是收費相對較低，但需自行管理站台
   列出各種情境可用的 gems，有一些指標像是開發活躍度、下載次數等可參考
 - [Awesome Ruby](http://awesome-ruby.com/)：
   列出許多 Ruby 函式庫和框架，可供開發者參考
+
+## 社群
+
+- [Rails Taiwan](http://www.meetup.com/rails-taiwan/)：台北和高雄的 Meetup
+- [Ruby on Rails 讀書會](https://www.facebook.com/groups/208890269174940/)：Facebook 社團
+- [Ruby on Rails 新手村](https://www.facebook.com/groups/670532946312104/)：Facebook 社團
+
+## 商業課程
+
+小弟和下列團體沒對價關係，各位網友可放心。
+有些網友比較喜歡上課，故放在此處，請各位自行參考。
+
+- [五倍紅寶石](https://5xruby.tw/)：提供 Ruby、Rails、iOS 等課程。
+- [飛鳥學院](http://asukademy.com/)：提供網頁前端、PHP、Rails、iOS 等課程。
