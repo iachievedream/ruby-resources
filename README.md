@@ -4,6 +4,9 @@
 
 ## Ruby 程式設計
 
+- [https://www.ruby-lang.org/](https://www.ruby-lang.org/en/)：官方網站，有一些文件可看。
+- Ruby Doc：查 Ruby API 用
+  [[連結](http://ruby-doc.org/)]
 - Ruby User's Guide：快速學習 Ruby 的語法，原版是由 Ruby 之父松本行弘以日文撰寫。
   [[英譯](http://www.rubyist.net/~slagell/ruby/)]、
   [[中譯](http://guides.ruby.tw/ruby/)]
@@ -12,8 +15,6 @@
 - Learn Ruby the Hard Way：含許多練習的入門書。
   [[連結](http://learnrubythehardway.org/book/)]、
   [[中譯](http://lrthw.github.io/)]
-- Ruby Doc：查 Ruby API 用
-  [[連結](http://ruby-doc.org/)]
 - TutorialsPoint 的 Ruby 教程
   [[連結](http://www.tutorialspoint.com/ruby/)]
 - Programming Ruby：具指標性的 Ruby 教材
@@ -115,6 +116,17 @@ VPS 的好處是收費相對較低，但需自行管理站台
 - [Rails Taiwan](http://www.meetup.com/rails-taiwan/)：台北和高雄的 Meetup
 - [Ruby on Rails 讀書會](https://www.facebook.com/groups/208890269174940/)：Facebook 社團
 - [Ruby on Rails 新手村](https://www.facebook.com/groups/670532946312104/)：Facebook 社團
+
+## 研討會
+
+以東亞的研討會為主。
+
+- [RubyConf Taiwan](http://rubyconf.tw/)：台灣的 Ruby 研討會
+- [RubyConf China](http://www.rubyconfchina.org/)：中國大陸的 Ruby 研討會
+- [Ruby Kaigi](http://rubykaigi.org/)：日本的 Ruby 研討會
+- [Rails Pacific](http://www.railspacific.com/)：亞洲區的 Rails 研討會
+
+如果有機會出國，可以參考 [Ruby Conferences](http://rubyconferences.org/) 網站，有全世界的 Ruby 相關研究會短訊。
 
 ## 商業課程
 
