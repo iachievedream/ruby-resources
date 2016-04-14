@@ -4,7 +4,7 @@
 
 ## Ruby 程式設計
 
-- [https://www.ruby-lang.org/](https://www.ruby-lang.org/en/)：官方網站，有一些文件可看。
+- [https://www.ruby-lang.org/](https://www.ruby-lang.org/)：官方網站，有一些文件可看。
 - Ruby Doc：查 Ruby API 用
   [[連結](http://ruby-doc.org/)]
 - Ruby User's Guide：快速學習 Ruby 的語法，原版是由 Ruby 之父松本行弘以日文撰寫。
