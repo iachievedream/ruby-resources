@@ -98,6 +98,7 @@ VPS 的好處是收費相對較低，但需自行管理站台
 
 - [Ruby Weekly](http://rubyweekly.com/)
 - [Green Ruby](http://greenruby.org/)
+- [Ruby Asia](http://rubyasia.com/)
 
 ## 個人網站
 
