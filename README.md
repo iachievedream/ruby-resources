@@ -36,8 +36,10 @@ Ruby 中最知名的 web framework。
 
 - Rails Guide：官方文件，略為學過 Rails 後再看，比較容易上手
   [[連結](http://guides.rubyonrails.org/)]
-- Ruby on Rails Tutorial：國外最知名的 Rails 入門教程。
+- Ruby on Rails Tutorial：國外最知名的 Rails 入門教程
   [[連結](https://www.railstutorial.org/)]
+- Rails, Angular, Postgres, and Bootstrap：綜合性書籍，建議有一些網頁程式的經驗再看
+  [[連結](https://pragprog.com/book/dcbang/rails-angular-postgres-and-bootstrap)]
 - RailsBridge Docs：簡易的 Rails 教程，可以按部就班學習。
   [[連結](http://railsbridge-docs-zh-tw.herokuapp.com/docs/)]
 - Rails Girls 指南：可跟著練習的教程。
@@ -53,7 +55,7 @@ Ruby 中最知名的 web framework。
 
 ## Sinatra
 
-一個 web micro-framework，可用來快速建立網頁應用程式。
+一個 micro-framework，可用來快速建立網頁應用程式。
 
 - Sinatra 官網，有一些文件可看。
   [[連結](http://www.sinatrarb.com/)]
@@ -94,6 +96,20 @@ VPS 的好處是收費相對較低，但需自行管理站台
   列出各種情境可用的 gems，有一些指標像是開發活躍度、下載次數等可參考
 - [Awesome Ruby](http://awesome-ruby.com/)：
   列出許多 Ruby 函式庫和框架，可供開發者參考
+
+## 遊戲
+
+什麼？Ruby 可以用來做遊戲？用 [Gosu](https://www.libgosu.org/) 就可以做出一個 2D 遊戲了。
+
+- Learn Game Programming with Ruby：實體和電子書籍
+  [[連結](https://pragprog.com/book/msgpkids/learn-game-programming-with-ruby)]
+- Developing Games with Ruby：電子書，可免費線上觀看及付費下載
+  [[連結](https://leanpub.com/developing-games-with-ruby/)]
+
+以下是另一本有趣的 Ruby 書：
+
+- Mazes for Programmers：用 Ruby 製作迷宮
+  [[連結](https://pragprog.com/book/jbmaze/mazes-for-programmers)]
 
 ## 電子報
 
