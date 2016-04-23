@@ -84,6 +84,8 @@ PaaS 的好處是不需管理站台，但收費會略高
 - [Engine Yard](https://www.engineyard.com/)
 - [OpenShift](https://www.openshift.com/)：有免費額度可供練習
 
+*註：OpenShift 上 Ruby 及其他相關套件的版本較舊，可能會在部署時發生問題，請小心服用。*
+
 VPS 的好處是收費相對較低，但需自行管理站台
 
 - [Linode](https://www.linode.com/)
