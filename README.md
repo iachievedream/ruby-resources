@@ -156,5 +156,6 @@ VPS 的好處是收費相對較低，但需自行管理站台
 小弟和下列團體沒對價關係，各位網友可放心。
 有些網友比較喜歡上課，故放在此處，請各位自行參考。
 
-- [五倍紅寶石](https://5xruby.tw/)：提供 Ruby、Rails、iOS 等課程。
-- [飛鳥學院](http://asukademy.com/)：提供網頁前端、PHP、Rails、iOS 等課程。
+- [五倍紅寶石](https://5xruby.tw/)：提供 Ruby、Rails、iOS 等課程
+- [GrowthSchool](http://www.growthschool.com/)：提供 Rails、敏捷開發、Growth Hack 等課程
+- [飛鳥學院](http://asukademy.com/)：提供網頁前端、PHP、Rails、iOS 等課程
