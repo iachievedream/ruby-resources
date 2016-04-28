@@ -94,7 +94,7 @@ VPS 的好處是收費相對較低，但需自行管理站台
 
 ## Mobile apps
 
-透過 [RubyMotion](http://www.rubymotion.com/) 可將 Ruby 程式碼轉為原生的 iOS、Mac OS 及 Android 平台的應用程式。這是一套商業軟體，基本功能免費，進階功能需付費，請需要的朋友自行參考。 
+透過 [RubyMotion](http://www.rubymotion.com/) 可將 Ruby 程式碼轉為原生的 iOS、Mac OS 及 Android 平台的應用程式。這是一套商業軟體，基本功能免費，進階功能需付費，請需要的朋友自行參考。
 
 ## 綜合性應用
 
@@ -134,8 +134,9 @@ VPS 的好處是收費相對較低，但需自行管理站台
 
 ## 社群
 
-- [Ruby Taiwan](https://www.facebook.com/groups/142197385837507/)：Facebook 社團
 - [Rails Taiwan](http://www.meetup.com/rails-taiwan/)：台北和高雄的 Meetup
+- [RailsFun](http://railsfun.tw/)：Rails 社群，包括線上討論區和實體聚會
+- [Ruby Taiwan](https://www.facebook.com/groups/142197385837507/)：Facebook 社團
 - [Ruby on Rails 讀書會](https://www.facebook.com/groups/208890269174940/)：Facebook 社團
 - [Ruby on Rails 新手村](https://www.facebook.com/groups/670532946312104/)：Facebook 社團
 
