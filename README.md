@@ -4,15 +4,15 @@
 
 ## Ruby 程式設計
 
-- [https://www.ruby-lang.org/](https://www.ruby-lang.org/)：官方網站，有一些文件可看。
+- [https://www.ruby-lang.org/](https://www.ruby-lang.org/)：官方網站，有一些文件可看
 - Ruby Doc：查 Ruby API 用
   [[連結](http://ruby-doc.org/)]
-- Ruby User's Guide：快速學習 Ruby 的語法，原版是由 Ruby 之父松本行弘以日文撰寫。
+- Ruby User's Guide：快速學習 Ruby 的語法，原版是由 Ruby 之父松本行弘以日文撰寫
   [[英譯](http://www.rubyist.net/~slagell/ruby/)]、
   [[中譯](http://guides.ruby.tw/ruby/)]
-- Learn to Program：新手導向的入門書。
+- Learn to Program：新手導向的入門書
   [[連結](https://pine.fm/LearnToProgram/)]
-- Learn Ruby the Hard Way：含許多練習的入門書。
+- Learn Ruby the Hard Way：含許多練習的入門書
   [[連結](http://learnrubythehardway.org/book/)]、
   [[中譯](http://lrthw.github.io/)]
 - TutorialsPoint 的 Ruby 教程
@@ -23,11 +23,15 @@
 
 ## 線上學習網站
 
-- Codecademy：免費線上練習程式設計的網站，可付費升級以取得部分獨特內容。
+- Codecademy：免費線上練習程式設計的網站，可付費升級以取得部分獨特內容
   [[連結](https://www.codecademy.com/)]
-- Code School：線上練習程式設計的網站，大部分課程需付費。
+- RubyMonk：免費線上互動式 Ruby 學習網站
+  [[連結](https://rubymonk.com/)]
+- Ruby Koans：下載學習 Ruby 程式設計
+  [[連結](http://rubykoans.com/)]
+- Code School：線上練習程式設計的網站，大部分課程需付費
   [[連結](https://www.codeschool.com/)]
-- LauchSchool (原 Tealeaf)：紮實的線上課程，費用較高，有真人導師協助學習。
+- LauchSchool (原 Tealeaf)：紮實的線上課程，費用較高，有真人導師協助學習
   [[連結](https://launchschool.com/)]
 
 ## Ruby on Rails
