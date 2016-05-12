@@ -21,6 +21,7 @@
   [[連結](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)]、
   [[舊版](http://ruby-doc.com/docs/ProgrammingRuby/)]
 
+
 ## 線上學習網站
 
 - Codecademy：免費線上練習程式設計的網站，可付費升級以取得部分獨特內容
@@ -33,6 +34,15 @@
   [[連結](https://www.codeschool.com/)]
 - LauchSchool (原 Tealeaf)：紮實的線上課程，費用較高，有真人導師協助學習
   [[連結](https://launchschool.com/)]
+
+
+## 線上解題網站
+
+熟悉 Ruby 語法後，可以到下列網站練功。有些題目有相當難度，做不出來也不用太灰心。
+
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
 
 ## Ruby on Rails
 
