@@ -116,6 +116,7 @@ VPS 的好處是收費相對較低，但需自行管理站台
   列出各種情境可用的 gems，有一些指標像是開發活躍度、下載次數等可參考
 - [Awesome Ruby](http://awesome-ruby.com/)：
   列出許多 Ruby 函式庫和框架，可供開發者參考
+- [Awesome Ruby (from LibHunt)](https://ruby.libhunt.com/)；另一個整理過的 Awesome Ruby 站台
 - [Ruby Quicktips](http://rubyquicktips.com/)：一些簡短而實用的 Ruby 程式碼
 
 ## 遊戲
