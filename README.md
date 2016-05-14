@@ -96,6 +96,7 @@ PaaS 的好處是不需管理站台，但收費會略高
 
 - [Heroku](https://www.heroku.com/)：提供免費額度可供練習
 - [Engine Yard](https://www.engineyard.com/)
+- [Google Cloud Platform](https://cloud.google.com/)：目前仍在 beta 階段，請小心使用
 - [OpenShift](https://www.openshift.com/)：有免費額度可供練習
 
 *註：OpenShift 上 Ruby 及其他相關套件的版本較舊，可能會在部署時發生問題，請小心服用。*
