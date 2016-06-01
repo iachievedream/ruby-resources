@@ -40,8 +40,9 @@
 
 熟悉 Ruby 語法後，可以到下列網站練功。有些題目有相當難度，做不出來也不用太灰心。
 
-- [LeetCode](https://leetcode.com/)：練上練習
-- [HackerRank](https://www.hackerrank.com/)：練上練習
+- [LeetCode](https://leetcode.com/)：線上練習
+- [HackerRank](https://www.hackerrank.com/)：線上練習
+- [HackerEarth](https://www.hackerearth.com/)：線上練習
 - [exercism](http://exercism.io/)：下載習題於本地端練習
 
 
