@@ -20,6 +20,9 @@
 - Programming Ruby：具指標性的 Ruby 教材
   [[連結](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)]、
   [[舊版](http://ruby-doc.com/docs/ProgrammingRuby/)]
+- Practical Object-Oriented Design in Ruby: An Agile Primer：
+  以 Ruby 為例，講解物件導向程式設計的書。
+  [[連結](http://www.poodr.com/)]
 
 
 ## 線上學習網站
@@ -69,6 +72,7 @@ Ruby 中最知名的 web framework。
 - The Rails Way：將 Rails 詳細講一次的大部頭書籍，適合學過一陣子 Rails 後再看。
   [[連結](http://amzn.to/1Q1PtL4)]
 
+
 ## Sinatra
 
 一個 micro-framework，可用來快速建立網頁應用程式。
@@ -80,6 +84,7 @@ Ruby 中最知名的 web framework。
 - Jump Start Sinatra：電子和實體書籍。
   [[連結](http://www.sitepoint.com/store/jump-start-sinatra/)]
 
+
 ## Git
 
 最流行的分散式版本管理系統，Linux 之父 Linus Torvalds 的作品。
@@ -87,10 +92,10 @@ Ruby 中最知名的 web framework。
 - Pro Git：免費電子書，也有實體書籍。
   [[連結](https://git-scm.com/book/en/v2)]
 
-另外，建議到 [GitHub](https://github.com/) 註冊帳號，以存放程式碼，帳號本身為免費，
-如果需要私有 repo 時可付費。
+建議到 [GitHub](https://github.com/) 註冊帳號，以存放程式碼，帳號本身為免費，如果需要私有 repo 時可付費。
 
-另外，可到 [Bitbucket](https://bitbucket.org/) 註冊帳號，存放私有 repo 不需收費。
+也可到 [Bitbucket](https://bitbucket.org/) 註冊帳號，存放私有 repo 不需收費。
+
 
 ## 適用 Rails 和其他 Ruby 網站的 hosting 方案
 
@@ -109,18 +114,29 @@ VPS 的好處是收費相對較低，但需自行管理站台
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Vultr](https://www.vultr.com/)
 
+
 ## Mobile apps
 
 透過 [RubyMotion](http://www.rubymotion.com/) 可將 Ruby 程式碼轉為原生的 iOS、Mac OS 及 Android 平台的應用程式。這是一套商業軟體，基本功能免費，進階功能需付費，請需要的朋友自行參考。
 
+
 ## 綜合性應用
 
+- Ruby Cookbook: 綜合性 Ruby 技巧及應用。
+  [[連結](http://shop.oreilly.com/product/9780596523695.do)]
+- The Ruby Way: 綜合性 Ruby 技巧及應用。
+  [[連結](http://therubyway.io/)]
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)：
   列出各種情境可用的 gems，有一些指標像是開發活躍度、下載次數等可參考
 - [Awesome Ruby](http://awesome-ruby.com/)：
   列出許多 Ruby 函式庫和框架，可供開發者參考
 - [Awesome Ruby (from LibHunt)](https://ruby.libhunt.com/)；另一個整理過的 Awesome Ruby 站台
+- Text Processing with Ruby：利用 Ruby 進行文字處理相關任務。
+  [[連結](https://pragprog.com/book/rmtpruby/text-processing-with-ruby)]
+- Ruby Performance Optimization：各種加速 Ruby 專案的技巧。
+  [[連結](https://pragprog.com/book/adrpo/ruby-performance-optimization)]
 - [Ruby Quicktips](http://rubyquicktips.com/)：一些簡短而實用的 Ruby 程式碼
+
 
 ## 遊戲
 
@@ -135,6 +151,7 @@ VPS 的好處是收費相對較低，但需自行管理站台
 
 - Mazes for Programmers：用 Ruby 製作迷宮
   [[連結](https://pragprog.com/book/jbmaze/mazes-for-programmers)]
+
 
 ## 電子報
 
