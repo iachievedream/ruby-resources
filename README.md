@@ -51,23 +51,24 @@
 
 ## Web 開發
 
-建議想學習 web 開發的初學者，先將 [HTTP 的基礎概念](http://www.tutorialspoint.com//http/index.htm) 看完一次，
-但不需強記那些協定的細節。然後，可以依照前端 (front-end) 和後端 (back-end) 分頭學習，以 Ruby 社群來說，可以透過 Sinatra 來
-學習 web 開發，在學到 form 和 Ajax 時，就會用到後端，另外，資料庫也需要透過後端程式和前端連結。對於有經驗的開發者，則可直接
-學習 Ruby on Rails。
+建議想學習 web 開發的初學者，先將 [HTTP 的基礎概念](http://www.tutorialspoint.com//http/index.htm) 看完一次，但不需強記那些協定的細節。然後，可以依照前端 (frontend) 和後端 (backend) 分頭學習，以 Ruby 社群來說，可以先透過 Sinatra 來學習 web 開發，在學到 web form 和 ajax 時，就會用到後端，另外，資料庫也需要透過後端程式和前端連結。對於有經驗的開發者，則可直接學習 Ruby on Rails。
 
 ### 前端
 
-- HTML
-- CSS
-- JavaScript
+- HTML：靜態的網頁內容
+- CSS：靜態的網頁形式
+- JavaScript：動態的網頁動作。對於初學者來說，先學基本的 JavaScript 語法和 [jQuery](https://jquery.com/)。以後再視需要學習前端框架。
 
 ### 後端
+
+傳統上來說，後端是由 Perl、PHP 和 ASP 等語言負責，但後端不限於某種特定的語言。以 Ruby 社群來說，可由下列框架入門：
 
 - Sinatra
 - Ruby on Rails
 
 ### 資料端
+
+資料庫有相當多的實作品，以 web application 來說，可先從以下兩種資料庫擇一學習：
 
 - MySQL
 - PostgreSQL
@@ -87,8 +88,7 @@
 
 ## Ruby on Rails
 
-Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。
-對於初學者來說，建議先按部就班學習 web 開發的基礎。
+Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。對於初學者來說，建議先按部就班學習 web 開發的基礎。
 
 - Rails Guide：官方文件，略為學過 Rails 後再看，比較容易上手
   [[連結](http://guides.rubyonrails.org/)]
