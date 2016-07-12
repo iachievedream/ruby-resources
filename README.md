@@ -33,7 +33,7 @@
   [[連結](https://rubymonk.com/)]
 - Ruby Koans：下載學習 Ruby 程式設計
   [[連結](http://rubykoans.com/)]
-- Code School：線上練習程式設計的網站，大部分課程需付費
+- Code School：線上練習程式設計的網站，包括 HTML, CSS, JavaScript, Ruby, Python 等課程，大部分課程需付費
   [[連結](https://www.codeschool.com/)]
 - LauchSchool (原 Tealeaf)：紮實的線上課程，費用較高，有真人導師協助學習
   [[連結](https://launchschool.com/)]
@@ -49,9 +49,46 @@
 - [exercism](http://exercism.io/)：下載習題於本地端練習
 
 
+## Web 開發
+
+建議想學習 web 開發的初學者，先將 [HTTP 的基礎概念](http://www.tutorialspoint.com//http/index.htm) 看完一次，
+但不需強記那些協定的細節。然後，可以依照前端 (front-end) 和後端 (back-end) 分頭學習，以 Ruby 社群來說，可以透過 Sinatra 來
+學習 web 開發，在學到 form 和 Ajax 時，就會用到後端，另外，資料庫也需要透過後端程式和前端連結。對於有經驗的開發者，則可直接
+學習 Ruby on Rails。
+
+### 前端
+
+- HTML
+- CSS
+- JavaScript
+
+### 後端
+
+- Sinatra
+- Ruby on Rails
+
+### 資料端
+
+- MySQL
+- PostgreSQL
+
+
+## Sinatra
+
+一個 micro-framework，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。
+
+- Sinatra 官網，有一些文件可看。
+  [[連結](http://www.sinatrarb.com/)]
+- Sinatra Up and Running：第一本 Sinatra 的實體書籍。
+  [[連結](http://shop.oreilly.com/product/0636920019664.do)]
+- Jump Start Sinatra：電子和實體書籍。
+  [[連結](http://www.sitepoint.com/store/jump-start-sinatra/)]
+
+
 ## Ruby on Rails
 
-Ruby 中最知名的 web framework。
+Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。
+對於初學者來說，建議先按部就班學習 web 開發的基礎。
 
 - Rails Guide：官方文件，略為學過 Rails 後再看，比較容易上手
   [[連結](http://guides.rubyonrails.org/)]
@@ -73,18 +110,6 @@ Ruby 中最知名的 web framework。
   [[連結](http://amzn.to/1Q1PtL4)]
 
 
-## Sinatra
-
-一個 micro-framework，可用來快速建立網頁應用程式。
-
-- Sinatra 官網，有一些文件可看。
-  [[連結](http://www.sinatrarb.com/)]
-- Sinatra Up and Running：第一本 Sinatra 的實體書籍。
-  [[連結](http://shop.oreilly.com/product/0636920019664.do)]
-- Jump Start Sinatra：電子和實體書籍。
-  [[連結](http://www.sitepoint.com/store/jump-start-sinatra/)]
-
-
 ## Git
 
 最流行的分散式版本管理系統，Linux 之父 Linus Torvalds 的作品。
@@ -97,7 +122,7 @@ Ruby 中最知名的 web framework。
 也可到 [Bitbucket](https://bitbucket.org/) 註冊帳號，存放私有 repo 不需收費。
 
 
-## 適用 Rails 和其他 Ruby 網站的 hosting 方案
+## 適用 Rails、Sinatra 和其他 Ruby 網站的 hosting 方案
 
 PaaS 的好處是不需管理站台，但收費會略高
 
