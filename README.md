@@ -10,6 +10,8 @@
 - Ruby User's Guide：快速學習 Ruby 的語法，原版是由 Ruby 之父松本行弘以日文撰寫
   [[英譯](http://www.rubyist.net/~slagell/ruby/)]、
   [[中譯](http://guides.ruby.tw/ruby/)]
+- Beginning Ruby, 3rd edition：適合新手的 Ruby 入門書
+  [[連結](http://www.apress.com/9781484212790)]
 - Learn to Program：新手導向的入門書
   [[連結](https://pine.fm/LearnToProgram/)]
 - Learn Ruby the Hard Way：含許多練習的入門書
@@ -17,11 +19,11 @@
   [[中譯](http://lrthw.github.io/)]
 - TutorialsPoint 的 Ruby 教程
   [[連結](http://www.tutorialspoint.com/ruby/)]
-- Programming Ruby：具指標性的 Ruby 教材
+- Programming Ruby：具指標性的 Ruby 教材，Ruby 版本略舊
   [[連結](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)]、
   [[舊版](http://ruby-doc.com/docs/ProgrammingRuby/)]
 - Practical Object-Oriented Design in Ruby: An Agile Primer：
-  以 Ruby 為例，講解物件導向程式設計的書。
+  以 Ruby 為例，講解物件導向程式設計的書
   [[連結](http://www.poodr.com/)]
 
 
