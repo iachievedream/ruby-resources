@@ -76,18 +76,6 @@
 - PostgreSQL
 
 
-## Sinatra
-
-一個 micro-framework，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。
-
-- Sinatra 官網，有一些文件可看。
-  [[連結](http://www.sinatrarb.com/)]
-- Sinatra Up and Running：第一本 Sinatra 的實體書籍。
-  [[連結](http://shop.oreilly.com/product/0636920019664.do)]
-- Jump Start Sinatra：電子和實體書籍。
-  [[連結](http://www.sitepoint.com/store/jump-start-sinatra/)]
-
-
 ## Ruby on Rails
 
 Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。對於初學者來說，建議先按部就班學習 web 開發的基礎。
@@ -110,6 +98,18 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web applica
   [[連結](https://www.gitbook.com/book/rocodev/rails-102/details)]
 - The Rails Way：將 Rails 詳細講一次的大部頭書籍，適合學過一陣子 Rails 後再看。
   [[連結](http://amzn.to/1Q1PtL4)]
+
+
+## Sinatra
+
+一個 micro-framework，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。
+
+- Sinatra 官網，有一些文件可看。
+  [[連結](http://www.sinatrarb.com/)]
+- Sinatra Up and Running：第一本 Sinatra 的實體書籍。
+  [[連結](http://shop.oreilly.com/product/0636920019664.do)]
+- Jump Start Sinatra：電子和實體書籍。
+  [[連結](http://www.sitepoint.com/store/jump-start-sinatra/)]
 
 
 ## Git
