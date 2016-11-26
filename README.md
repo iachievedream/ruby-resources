@@ -65,14 +65,14 @@
 
 傳統上來說，後端是由 Perl、PHP 和 ASP 等語言負責，但後端不限於某種特定的語言。以 Ruby 社群來說，可由下列框架入門：
 
-- Sinatra
 - Ruby on Rails
+- Sinatra
 
 ### 資料端
 
 資料庫有相當多的實作品，以 web application 來說，可先從以下兩種資料庫擇一學習：
 
-- MySQL
+- MySQL/MariaDB
 - PostgreSQL
 
 
@@ -80,10 +80,19 @@
 
 Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。對於初學者來說，建議先按部就班學習 web 開發的基礎。
 
+### Rails 5
+
 - Rails Guide：官方文件，略為學過 Rails 後再看，比較容易上手
   [[連結](http://guides.rubyonrails.org/)]
 - Ruby on Rails Tutorial：國外最知名的 Rails 入門教程
   [[連結](https://www.railstutorial.org/)]
+- Agile Web Development with Rails 5：DHH 參與編寫的 Rails 教程
+  [[連結](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)]
+- Learning Rails 5
+  [[連結](http://shop.oreilly.com/product/0636920039822.do)]
+
+### Rails 4
+
 - Rails, Angular, Postgres, and Bootstrap：綜合性書籍，建議有一些網頁程式的經驗再看
   [[連結](https://pragprog.com/book/dcbang/rails-angular-postgres-and-bootstrap)]
 - RailsBridge Docs：簡易的 Rails 教程，可以按部就班學習。
