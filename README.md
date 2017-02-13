@@ -65,8 +65,13 @@
 
 傳統上來說，後端是由 Perl、PHP 和 ASP 等語言負責，但後端不限於某種特定的語言。以 Ruby 社群來說，可由下列框架入門：
 
-- Ruby on Rails
-- Sinatra
+- [Ruby on Rails](http://rubyonrails.org/)：Ruby 社群最知名的 MVC 框架
+- [Sinatra](http://www.sinatrarb.com/)：一個微框架 (micro-framework)，非 MVC 框架
+
+或是這些新的框架
+
+- [Hanami](http://hanamirb.org/)：現代化的 MVC 框架
+- [Padrino](http://padrinorb.com/)：基於 Sinatra 的 MVC 框架
 
 ### 資料端
 
