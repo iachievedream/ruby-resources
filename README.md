@@ -35,6 +35,8 @@
   [[連結](https://rubymonk.com/)]
 - Ruby Koans：下載學習 Ruby 程式設計
   [[連結](http://rubykoans.com/)]
+- SoloLearn：免費線上互動式程式設計學習網站，有多種語言，包括 Ruby 在內
+  [[連結](https://www.sololearn.com/)]
 - Code School：線上練習程式設計的網站，包括 HTML, CSS, JavaScript, Ruby, Python 等課程，大部分課程需付費
   [[連結](https://www.codeschool.com/)]
 - LauchSchool (原 Tealeaf)：紮實的線上課程，費用較高，有真人導師協助學習
