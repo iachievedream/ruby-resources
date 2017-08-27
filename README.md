@@ -8,23 +8,35 @@
 - Ruby Doc：查 Ruby API 用
   [[連結](http://ruby-doc.org/)]
 - Ruby User's Guide：快速學習 Ruby 的語法，原版是由 Ruby 之父松本行弘以日文撰寫
-  [[英譯](http://www.rubyist.net/~slagell/ruby/)]、
+  [[英譯](http://www.rubyist.net/~slagell/ruby/)]
   [[中譯](http://guides.ruby.tw/ruby/)]
-- Beginning Ruby, 3rd edition：適合新手的 Ruby 入門書
+- Beginning Ruby, 3rd edition：簡明的 Ruby 入門書
   [[連結](http://www.apress.com/9781484212790)]
 - Learn to Program：新手導向的入門書
   [[連結](https://pine.fm/LearnToProgram/)]
 - Learn Ruby the Hard Way：含許多練習的入門書
-  [[連結](http://learnrubythehardway.org/book/)]、
+  [[連結](http://learnrubythehardway.org/book/)]
   [[中譯](http://lrthw.github.io/)]
+- The Well-Grounded Rubyist, 2nd edition：著重觀念的 Ruby 程式設計書籍
+  [[連結](https://www.manning.com/books/the-well-grounded-rubyist-second-edition)]
 - TutorialsPoint 的 Ruby 教程
   [[連結](http://www.tutorialspoint.com/ruby/)]
 - Programming Ruby：具指標性的 Ruby 教材，Ruby 版本略舊
-  [[連結](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)]、
+  [[連結](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)]
   [[舊版](http://ruby-doc.com/docs/ProgrammingRuby/)]
-- Practical Object-Oriented Design in Ruby: An Agile Primer：
-  以 Ruby 為例，講解物件導向程式設計的書
+- Ruby Under a Microscope：講解 Ruby 內部實作的書籍，非一般 Ruby 入門教材
+  [[連結](http://patshaughnessy.net/ruby-under-a-microscope)]
+
+## 開發方法論
+
+- Practical Object-Oriented Design in Ruby: An Agile Primer：以 Ruby 為例，講解物件導向程式設計的書
   [[連結](http://www.poodr.com/)]
+  [[中譯](http://www.drmaster.com.tw/Bookinfo.asp?BookID=MP11505)]
+- Effective Ruby：一些 Ruby 的實務和經驗
+  [[連結](https://www.effectiveruby.com/)]
+  [[中譯](http://books.gotop.com.tw/v_ACL043600)]
+- Test Driven Development in ruby: 以測試導向開發 (TDD, Test-Driven Development) 為主軸，講解 Ruby 程式設計。
+  [[連結](http://www.apress.com/gp/book/9781484226377)]
 
 
 ## 線上學習網站
@@ -55,7 +67,7 @@
 
 ## Web 開發
 
-建議想學習 web 開發的初學者，先將 [HTTP 的基礎概念](http://www.tutorialspoint.com//http/index.htm) 看完一次，但不需強記那些協定的細節。然後，可以依照前端 (frontend) 和後端 (backend) 分頭學習，以 Ruby 社群來說，可以先透過 Sinatra 來學習 web 開發，在學到 web form 和 ajax 時，就會用到後端，另外，資料庫也需要透過後端程式和前端連結。對於有經驗的開發者，則可直接學習 Ruby on Rails。
+建議想學習 web 開發的初學者，先將 [HTTP 的基礎概念](http://www.tutorialspoint.com//http/index.htm) 看完一次，但不需強記那些協定的細節。然後，可以依照前端 (frontend) 和後端 (backend) 分頭學習，以 Ruby 社群來說，初學者可以先透過 Sinatra 來學習 web 開發，在學到 web form 和 ajax 時，就會用到後端，另外，資料庫也需要透過後端程式和前端連結。對於有經驗的開發者，則可直接學習 Ruby on Rails。
 
 ### 前端
 
@@ -65,7 +77,7 @@
 
 ### 後端
 
-傳統上來說，後端是由 Perl、PHP 和 ASP 等語言負責，但後端不限於某種特定的語言。以 Ruby 社群來說，可由下列框架入門：
+傳統上來說，後端是由 Perl、PHP、ASP、JSP 等語言負責，但後端不限於某種特定的語言。以 Ruby 社群來說，可由下列框架入門：
 
 - [Ruby on Rails](http://rubyonrails.org/)：Ruby 社群最知名的 MVC 框架
 - [Sinatra](http://www.sinatrarb.com/)：一個微框架 (micro-framework)，非 MVC 框架
@@ -85,7 +97,7 @@
 
 ## Ruby on Rails
 
-Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。對於初學者來說，建議先按部就班學習 web 開發的基礎。
+Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。
 
 ### Rails 5
 
@@ -118,7 +130,7 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web applica
 
 ## Sinatra
 
-一個 micro-framework，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。
+一個 micro-framework，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。但 Sinatra 較不適合用來建立大型網站。
 
 - Sinatra 官網，有一些文件可看。
   [[連結](http://www.sinatrarb.com/)]
@@ -135,9 +147,7 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web applica
 - Pro Git：免費電子書，也有實體書籍。
   [[連結](https://git-scm.com/book/en/v2)]
 
-建議到 [GitHub](https://github.com/) 註冊帳號，以存放程式碼，帳號本身為免費，如果需要私有 repo 時可付費。
-
-也可到 [Bitbucket](https://bitbucket.org/) 註冊帳號，存放私有 repo 不需收費。
+建議到 [GitHub](https://github.com/) 註冊帳號，以存放程式碼，帳號本身為免費，如果需要私有 repo 時可付費。也可到 [Bitbucket](https://bitbucket.org/) 註冊帳號，存放私有 repo 不需收費。
 
 
 ## 適用 Rails、Sinatra 和其他 Ruby 網站的 hosting 方案
@@ -178,6 +188,8 @@ VPS 的好處是收費相對較低，但需自行管理站台
   [[連結](https://pragprog.com/book/rmtpruby/text-processing-with-ruby)]
 - Ruby Performance Optimization：各種加速 Ruby 專案的技巧。
   [[連結](https://pragprog.com/book/adrpo/ruby-performance-optimization)]
+- Build Awesome Command-Line Applications in Ruby 2：用 Ruby 撰寫終端機程式
+  [[連結](https://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2)]
 - [Ruby Quicktips](http://rubyquicktips.com/)：一些簡短而實用的 Ruby 程式碼
 
 
