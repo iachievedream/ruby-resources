@@ -103,6 +103,8 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web applica
 
 - Rails Guide：官方文件，略為學過 Rails 後再看，比較容易上手
   [[連結](http://guides.rubyonrails.org/)]
+- 為你自己學 Ruby on Rails：高見龍 (eddie) 先生所撰寫的 Rails 書籍
+  [[線上](http://railsbook.tw/)][[紙本](http://books.gotop.com.tw/v_ACL050300)]
 - Ruby on Rails Tutorial：國外最知名的 Rails 入門教程
   [[連結](https://www.railstutorial.org/)]
 - Agile Web Development with Rails 5：DHH 參與編寫的 Rails 教程
@@ -144,6 +146,8 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web applica
 
 最流行的分散式版本管理系統，Linux 之父 Linus Torvalds 的作品。
 
+- 為你自己學 Git：高見龍 (eddie) 先生所撰寫的 Git 書籍
+  [[線上](http://gitbook.tw/)]
 - Pro Git：免費電子書，也有實體書籍。
   [[連結](https://git-scm.com/book/en/v2)]
 
