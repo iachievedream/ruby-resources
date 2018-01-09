@@ -35,7 +35,7 @@
 - Effective Ruby：一些 Ruby 的實務和經驗
   [[連結](https://www.effectiveruby.com/)]
   [[中譯](http://books.gotop.com.tw/v_ACL043600)]
-- Test Driven Development in ruby: 以測試導向開發 (TDD, Test-Driven Development) 為主軸，講解 Ruby 程式設計。
+- Test Driven Development in ruby: 以測試導向開發為主軸，講解 Ruby 程式設計。
   [[連結](http://www.apress.com/gp/book/9781484226377)]
 
 
@@ -67,7 +67,7 @@
 
 ## Web 開發
 
-建議想學習 web 開發的初學者，先將 [HTTP 的基礎概念](http://www.tutorialspoint.com//http/index.htm) 看完一次，但不需強記那些協定的細節。然後，可以依照前端 (frontend) 和後端 (backend) 分頭學習，以 Ruby 社群來說，初學者可以先透過 Sinatra 來學習 web 開發，在學到 web form 和 ajax 時，就會用到後端，另外，資料庫也需要透過後端程式和前端連結。對於有經驗的開發者，則可直接學習 Ruby on Rails。
+建議想學習 web 開發的初學者，先將 [HTTP 的基礎概念](http://www.tutorialspoint.com//http/index.htm)看完一次，但不需強記那些協定的細節。然後，可以依照前端 (frontend) 和後端 (backend) 分頭學習，以 Ruby 社群來說，初學者可以先透過 Sinatra 來學習 web 開發，在學到 web form 和 ajax 時，就會用到後端，另外，資料庫也需要透過後端程式和前端連結。對於有經驗的開發者，則可直接學習 Ruby on Rails。
 
 ### 前端
 
@@ -82,7 +82,7 @@
 - [Ruby on Rails](http://rubyonrails.org/)：Ruby 社群最知名的 MVC 框架
 - [Sinatra](http://www.sinatrarb.com/)：一個微框架 (micro-framework)，非 MVC 框架
 
-或是這些新的框架
+或是這些新的框架：
 
 - [Hanami](http://hanamirb.org/)：現代化的 MVC 框架
 - [Padrino](http://padrinorb.com/)：基於 Sinatra 的 MVC 框架
@@ -97,12 +97,14 @@
 
 ## Ruby on Rails
 
-Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web application 開發經驗，想要快速開發新產品的開發者。
+Ruby 中最知名的 web framework。但 Rails 較適合已有一些網頁程式開發經驗，想要快速開發新產品的開發者。
 
 ### Rails 5
 
 - Rails Guide：官方文件，略為學過 Rails 後再看，比較容易上手
   [[連結](http://guides.rubyonrails.org/)]
+- 為你自己學 Ruby on Rails：國內 Rails 前輩高見龍先生所著的 Rails 書籍
+  [[紙本](http://books.gotop.com.tw/v_ACL050300)][[線上](https://railsbook.tw/)]
 - Ruby on Rails Tutorial：國外最知名的 Rails 入門教程
   [[連結](https://www.railstutorial.org/)]
 - Agile Web Development with Rails 5：DHH 參與編寫的 Rails 教程
@@ -130,7 +132,7 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web applica
 
 ## Sinatra
 
-一個 micro-framework，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。但 Sinatra 較不適合用來建立大型網站。
+一個微框架，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。但 Sinatra 較不適合用來建立大型網站。
 
 - Sinatra 官網，有一些文件可看。
   [[連結](http://www.sinatrarb.com/)]
@@ -144,6 +146,8 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一定 web applica
 
 最流行的分散式版本管理系統，Linux 之父 Linus Torvalds 的作品。
 
+- 為你自己學 Git：國內 Rails 前輩高見龍先生所著的 Git 書籍
+  [[紙本](http://www.drmaster.com.tw/bookinfo.asp?BookID=MP21732)][[線上](http://gitbook.tw/)]
 - Pro Git：免費電子書，也有實體書籍。
   [[連結](https://git-scm.com/book/en/v2)]
 
@@ -170,7 +174,7 @@ VPS 的好處是收費相對較低，但需自行管理站台
 
 ## Mobile apps
 
-透過 [RubyMotion](http://www.rubymotion.com/) 可將 Ruby 程式碼轉為原生的 iOS、Mac OS 及 Android 平台的應用程式。這是一套商業軟體，基本功能免費，進階功能需付費，請需要的朋友自行參考。
+透過 [RubyMotion](http://www.rubymotion.com/) 可將 Ruby 程式碼轉為原生的 iOS、Mac OS 及 Android 平台的應用程式。這是一套商業軟體，基本功能免費，進階功能需付費，請需要的朋友自行參考。要注意的是，RubyMotion 不能直接沿用 Ruby 原生的 gem，需重新撰寫適用於 RubyMotion 的插件 (plugins)。
 
 
 ## 綜合性應用
