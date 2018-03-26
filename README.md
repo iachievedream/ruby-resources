@@ -10,6 +10,9 @@
 - Ruby User's Guide：快速學習 Ruby 的語法，原版是由 Ruby 之父松本行弘以日文撰寫
   [[英譯](http://www.rubyist.net/~slagell/ruby/)]
   [[中譯](http://guides.ruby.tw/ruby/)]
+- 深入淺出 Ruby：用大量圖示、輕鬆風格的 Ruby 入門書
+  [[中文](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A428)]
+  [[原文](http://shop.oreilly.com/product/9780596803995.do)]
 - Beginning Ruby, 3rd edition：簡明的 Ruby 入門書
   [[連結](http://www.apress.com/9781484212790)]
 - Learn to Program：新手導向的入門書
@@ -179,8 +182,8 @@ VPS 的好處是收費相對較低，但需自行管理站台
 
 ## 綜合性應用
 
-- Ruby Cookbook: 綜合性 Ruby 技巧及應用。
-  [[連結](http://shop.oreilly.com/product/9780596523695.do)]
+- Ruby Cookbook, 2nd edition：綜合性 Ruby 技巧及應用。
+  [[連結](http://shop.oreilly.com/product/0636920032236.do)]
 - The Ruby Way: 綜合性 Ruby 技巧及應用。
   [[連結](http://therubyway.io/)]
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)：
