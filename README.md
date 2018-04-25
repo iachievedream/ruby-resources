@@ -40,6 +40,8 @@
   [[中譯](http://books.gotop.com.tw/v_ACL043600)]
 - Test Driven Development in ruby: 以測試導向開發為主軸，講解 Ruby 程式設計
   [[連結](http://www.apress.com/gp/book/9781484226377)]
+- Effective Testing with Rspec 3: 以 Rspec 撰寫測試程式，對開發過程有所幫助
+  [[連結](https://pragprog.com/book/rspec3/effective-testing-with-rspec-3)]
 
 
 ## 線上學習網站
