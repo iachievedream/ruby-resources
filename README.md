@@ -30,6 +30,15 @@
 - Ruby Under a Microscope：講解 Ruby 內部實作的書籍，非一般 Ruby 入門教材
   [[連結](http://patshaughnessy.net/ruby-under-a-microscope)]
 
+## 撰碼風格
+
+撰碼風格 (coding style) 是一個參考性的項目，不是硬性的規定。最重要的是在同一份專案內保持一致，再來就是在同公司或團體內保持一致，能和 Ruby 社群也保持一致就更好了。
+
+- Ruby Community Coding Style
+  [[原文](https://github.com/bbatsov/ruby-style-guide)]
+  [[中譯](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhTW.md)]
+- [RoboCop](https://github.com/bbatsov/rubocop)：參考上述撰碼風格的 Ruby 靜態程式碼檢查工具
+
 ## 開發方法論
 
 - Practical Object-Oriented Design in Ruby: An Agile Primer：以 Ruby 為例，講解物件導向程式設計的書
