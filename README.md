@@ -38,7 +38,7 @@
 - Effective Ruby：一些 Ruby 的實務和經驗
   [[連結](https://www.effectiveruby.com/)]
   [[中譯](http://books.gotop.com.tw/v_ACL043600)]
-- Test Driven Development in ruby: 以測試導向開發為主軸，講解 Ruby 程式設計。
+- Test Driven Development in ruby: 以測試導向開發為主軸，講解 Ruby 程式設計
   [[連結](http://www.apress.com/gp/book/9781484226377)]
 
 
@@ -121,17 +121,17 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一些網頁程式
 
 - Rails, Angular, Postgres, and Bootstrap：綜合性書籍，建議有一些網頁程式的經驗再看
   [[連結](https://pragprog.com/book/dcbang/rails-angular-postgres-and-bootstrap)]
-- RailsBridge Docs：簡易的 Rails 教程，可以按部就班學習。
+- RailsBridge Docs：簡易的 Rails 教程，可以按部就班學習
   [[連結](http://railsbridge-docs-zh-tw.herokuapp.com/docs/)]
-- Rails Girls 指南：可跟著練習的教程。
+- Rails Girls 指南：可跟著練習的教程
   [[連結](http://railsgirls.tw/)]
-- Ruby on Rails 實戰聖經：國內有名的 Rails 參考書。
+- Ruby on Rails 實戰聖經：國內有名的 Rails 參考書
   [[連結](https://ihower.tw/rails4/)]
-- Rails 101：目前改為免費線上課程。
+- Rails 101：目前改為免費線上課程
   [[連結](http://courses.growthschool.com/courses/rails-101)]
-- Rails 102：一些較進階的 Rails 相關知識。
+- Rails 102：一些較進階的 Rails 相關知識
   [[連結](https://www.gitbook.com/book/rocodev/rails-102/details)]
-- The Rails Way：將 Rails 詳細講一次的大部頭書籍，適合學過一陣子 Rails 後再看。
+- The Rails Way：將 Rails 詳細講一次的大部頭書籍，適合學過一陣子 Rails 後再看
   [[連結](http://amzn.to/1Q1PtL4)]
 
 
@@ -139,11 +139,11 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一些網頁程式
 
 一個微框架，可用來快速建立網頁應用程式。對於不熟悉 web 開發的程式設計師而言，先學 Sinatra 比較容易上手。但 Sinatra 較不適合用來建立大型網站。
 
-- Sinatra 官網，有一些文件可看。
+- Sinatra 官網，有一些文件可看
   [[連結](http://www.sinatrarb.com/)]
-- Sinatra Up and Running：第一本 Sinatra 的實體書籍。
+- Sinatra Up and Running：第一本 Sinatra 的實體書籍
   [[連結](http://shop.oreilly.com/product/0636920019664.do)]
-- Jump Start Sinatra：電子和實體書籍。
+- Jump Start Sinatra：電子和實體書籍
   [[連結](http://www.sitepoint.com/store/jump-start-sinatra/)]
 
 
@@ -153,19 +153,19 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一些網頁程式
 
 - 為你自己學 Git：國內 Rails 前輩高見龍先生所著的 Git 書籍
   [[紙本](http://www.drmaster.com.tw/bookinfo.asp?BookID=MP21732)][[線上](http://gitbook.tw/)]
-- Pro Git：免費電子書，也有實體書籍。
+- Pro Git：免費電子書，也有實體書籍
   [[連結](https://git-scm.com/book/en/v2)]
 
 建議到 [GitHub](https://github.com/) 註冊帳號，以存放程式碼，帳號本身為免費，如果需要私有 repo 時可付費。也可到 [Bitbucket](https://bitbucket.org/) 註冊帳號，存放私有 repo 不需收費。
 
 
-## 適用 Rails、Sinatra 和其他 Ruby 網站的 hosting 方案
+## 適用 Rails、Sinatra 和其他 Ruby 網站的雲端主機方案
 
-PaaS 的好處是不需管理站台，但收費會略高
+PaaS 的好處是不需管理主機，但收費會略高
 
 - [Heroku](https://www.heroku.com/)：提供免費額度可供練習
 - [Engine Yard](https://www.engineyard.com/)
-- [Google Cloud Platform](https://cloud.google.com/)
+- [Google App Engine](https://cloud.google.com/appengine/)
 - [OpenShift](https://www.openshift.com/)：有免費額度可供練習
 
 *註：OpenShift 上 Ruby 及其他相關套件的版本較舊，可能會在部署時發生問題，請小心服用。*
@@ -184,18 +184,18 @@ VPS 的好處是收費相對較低，但需自行管理站台
 
 ## 綜合性應用
 
-- Ruby Cookbook, 2nd edition：綜合性 Ruby 技巧及應用。
+- Ruby Cookbook, 2nd edition：綜合性 Ruby 技巧及應用
   [[連結](http://shop.oreilly.com/product/0636920032236.do)]
-- The Ruby Way: 綜合性 Ruby 技巧及應用。
+- The Ruby Way: 綜合性 Ruby 技巧及應用
   [[連結](http://therubyway.io/)]
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)：
   列出各種情境可用的 gems，有一些指標像是開發活躍度、下載次數等可參考
 - [Awesome Ruby](http://awesome-ruby.com/)：
   列出許多 Ruby 函式庫和框架，可供開發者參考
 - [Awesome Ruby (from LibHunt)](https://ruby.libhunt.com/)；另一個整理過的 Awesome Ruby 站台
-- Text Processing with Ruby：利用 Ruby 進行文字處理相關任務。
+- Text Processing with Ruby：利用 Ruby 進行文字處理相關任務
   [[連結](https://pragprog.com/book/rmtpruby/text-processing-with-ruby)]
-- Ruby Performance Optimization：各種加速 Ruby 專案的技巧。
+- Ruby Performance Optimization：各種加速 Ruby 程式的技巧
   [[連結](https://pragprog.com/book/adrpo/ruby-performance-optimization)]
 - Build Awesome Command-Line Applications in Ruby 2：用 Ruby 撰寫終端機程式
   [[連結](https://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2)]
