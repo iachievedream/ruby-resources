@@ -108,7 +108,9 @@ Ruby 中最知名的 web framework。但 Rails 較適合已有一些網頁程式
   [[連結](http://guides.rubyonrails.org/)]
 - 為你自己學 Ruby on Rails：國內 Rails 前輩高見龍先生所著的 Rails 書籍
   [[紙本](http://books.gotop.com.tw/v_ACL050300)][[線上](https://railsbook.tw/)]
-- Ruby on Rails Tutorial：國外最知名的 Rails 入門教程
+- The Rails 5 Way：詳細敘述 Rails 的特性，適合學過一段 Rails 後再看
+  [[連結](https://www.pearson.com/us/higher-education/program/Fernandez-The-Rails-5-Way-4th-Edition/PGM1235788.html)]
+- Ruby on Rails Tutorial：國外知名的 Rails 入門教程
   [[連結](https://www.railstutorial.org/)]
 - Agile Web Development with Rails 5：DHH 參與編寫的 Rails 教程
   [[連結](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)]
